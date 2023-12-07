@@ -1,0 +1,6 @@
+module Pods_TopCliente {
+  umbrella header "Pods-TopCliente-umbrella.h"
+
+  export *
+  module * { export * }
+}
